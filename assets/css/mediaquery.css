@@ -1,0 +1,678 @@
+
+/* COMIENZO MÓVILES 480PX - 575PX */
+@media screen and (min-width: 420px) and (max-width: 575px){
+.menu {
+	width: 100%;
+}
+
+.menu .navegacion {
+	width: 100%;
+}
+
+#banner {
+	width: 100%;
+	overflow: auto;	
+}
+
+#banner .formulario {
+	width: 100%;
+}
+
+#banner .formulario .contacto .contactenos {
+	width: 100%;
+}
+
+#banner .formulario .contacto .contactenos h2 {
+	margin: 0 3%;
+	color: #ffffff;
+	font-size: 1em;
+}
+
+#banner .formulario .contacto {
+	width: 100%;
+	margin: 30px auto;
+	align-items: center;
+	float: none;
+}
+
+#banner .formulario .contacto input {
+	width: 91%;
+}
+
+#banner .formulario .contacto #boton {
+	margin: 4% 5%;
+	text-align: left;
+	align-self: flex-start;
+}
+
+#nosotros {
+	width: 100%;
+}
+
+#nosotros .titulos h2 {
+	font-size:  1em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#nosotros .equipo {
+	width: 80%;
+}
+
+#nosotros .equipo p {
+	text-align: left;
+}
+
+#mutuo-acuerdo {
+	width: 100%;
+	text-align: left;
+}
+
+#mutuo-acuerdo .titulos {
+	width: 100%;
+}
+
+#mutuo-acuerdo .titulos h2 {
+	font-size:  1em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#mutuo-acuerdo .container {
+	width: 80%;
+}
+
+#mutuo-acuerdo .container .ofrecemos {
+	display: flex;
+	flex-direction: row;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon {
+	width: 50px;
+	min-width: 50px;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon img {
+	width: 100%;
+}
+
+#requisitos {
+	width: 100%;
+}
+
+#requisitos .titulos h2 {
+	font-size:  1em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#requisitos .requisitos-divorcio {
+	width: 80%;
+}
+
+#requisitos .requisitos-divorcio p {
+	text-align: left;
+}
+
+#requisitos .requisitos-divorcio .imagenes  {
+	display:  flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos {
+	width: 100%;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos img {
+	width: 100%;
+	max-width: 1920px;
+}
+
+#nuestra-oficina {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos h2 {
+	font-size:  1em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#nuestra-oficina .direccion {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#nuestra-oficina .direccion .icons {
+	width: 50%;
+	padding: 0;
+}
+
+#nuestra-oficina .direccion .icons img {
+	width: 100%;
+	max-width: 50px;
+}
+
+#nuestra-oficina .direccion .icons figcaption {
+	text-align: center;
+}
+
+#nuestra-oficina .ubicacion {
+	width: 72%;
+	margin: 50px auto;
+}
+}
+/* CIERRE MÓVILES 480PX - 575PX */
+
+/* COMIENZO MOVILES Y TABLET 576PX - 767PX */
+@media screen and (min-width: 576px) and (max-width: 767px){
+.menu {
+	width: 100% !important;
+}
+
+.menu .navegacion {
+	width: 100%;
+}
+
+#banner {
+	width: 100%;
+	overflow: auto;
+}
+
+#banner .formulario {
+	width: 100%;
+}
+
+#banner .formulario .contacto .contactenos {
+	width: 100%;
+}
+
+#banner .formulario .contacto .contactenos h2 {
+	margin: 0 3%;
+	color: #ffffff;
+	font-size: 1.1em;
+}
+
+#banner .formulario .contacto {
+	width: 100%;
+	margin: 30px auto;
+	align-items: center;
+	float: none;
+}
+
+#banner .formulario .contacto input {
+	width: 91%;
+}
+
+#banner .formulario .contacto #boton {
+	margin: 4% 5%;
+	text-align: left;
+	align-self: flex-start;
+}
+
+#nosotros {
+	width: 100%;
+}
+
+#nosotros .titulos h2 {
+	font-size:  1.1em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#nosotros .equipo {
+	width: 80%;
+}
+
+#nosotros .equipo p {
+	text-align: left;
+}
+#mutuo-acuerdo {
+	width: 100%;
+}
+
+#mutuo-acuerdo .titulos {
+	width: 100%;
+}
+
+#mutuo-acuerdo .titulos h2 {
+	font-size:  1.1em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#mutuo-acuerdo .container {
+	width: 80%;
+}
+
+
+#mutuo-acuerdo .container .ofrecemos {
+	display: flex;
+	flex-direction: row;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon {
+	width: 50px;
+	min-width: 50px;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon img {
+	width: 100%;
+}
+
+#requisitos {
+	width: 100%;
+}
+
+#requisitos .titulos h2 {
+	font-size:  1.1em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#requisitos .requisitos-divorcio {
+	width: 80%;
+}
+
+#requisitos .requisitos-divorcio p {
+	text-align: left;
+}
+
+#requisitos .requisitos-divorcio .imagenes  {
+	display:  flex;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos {
+	width: 45%;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos img {
+	width: 100%;
+	max-width: 1920px;
+}
+
+#nuestra-oficina {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos h2 {
+	font-size:  1.1em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#nuestra-oficina .direccion {
+	display:  flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+#nuestra-oficina .direccion .icons {
+	width: 50%;
+	padding: 0;
+}
+
+#nuestra-oficina .direccion .icons img {
+	width: 100%;
+	max-width: 50px;
+}
+
+#nuestra-oficina .ubicacion {
+	width: 72%;
+	margin: 50px auto;
+}
+}
+/* CIERRE MÓVILES Y TABLET */
+
+/* COMIENTO TABLET 768PX - 1023PX */
+@media screen and (min-width: 768px) and (max-width: 1023px){
+.menu {
+	width: 100% !important;
+}
+
+.menu .navegacion {
+	width: 100%;
+}
+
+#banner {
+	width: 100%;
+	overflow: auto;
+}
+
+#banner .formulario {
+	width: 100%;
+}
+
+#banner .formulario .contacto .contactenos {
+	width: 100%;
+}
+
+#banner .formulario .contacto .contactenos h2 {
+	margin: 0 3%;
+	color: #ffffff;
+	font-size: 1.2em;
+}
+
+#banner .formulario .contacto {
+	width: 100%;
+	margin: 30px auto;
+	align-items: center;
+	float: none;
+}
+
+#banner .formulario .contacto input {
+	width: 91%;
+}
+
+#banner .formulario .contacto #boton {
+	margin: 4% 5%;
+	text-align: left;
+	align-self: flex-start;
+}
+
+#nosotros {
+	width: 100%;
+}
+
+#nosotros .titulos h2 {
+	font-size:  1.2em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#nosotros .equipo {
+	width: 80%;
+}
+
+#nosotros .equipo p {
+	text-align: justify;
+}
+#mutuo-acuerdo {
+	width: 100%;
+}
+
+#mutuo-acuerdo .titulos {
+	width: 100%;
+}
+
+#mutuo-acuerdo .titulos h2 {
+	font-size:  1.2em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#mutuo-acuerdo .container {
+	width: 80%;
+}
+
+
+#mutuo-acuerdo .container .ofrecemos {
+	display: flex;
+	flex-direction: row;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon {
+	width: 50px;
+	min-width: 50px;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon img {
+	width: 100%;
+}
+
+#requisitos {
+	width: 100%;
+}
+
+#requisitos .titulos h2 {
+	font-size:  1.2em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#requisitos .requisitos-divorcio {
+	width: 80%;
+}
+
+#requisitos .requisitos-divorcio p {
+	text-align: justify;
+}
+
+#requisitos .requisitos-divorcio .imagenes  {
+	width: 100%;
+	display:  flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos {
+	width: 29.9%;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos img {
+	width: 100%;
+	max-width: 1920px;
+}
+
+#nuestra-oficina {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos h2 {
+	font-size:  1.2em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#nuestra-oficina .direccion {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
+#nuestra-oficina .direccion .icons {
+	width: 33.3%;
+}
+
+#nuestra-oficina .direccion .icons img {
+	width: 100%;
+	max-width: 50px;
+}
+
+#nuestra-oficina .ubicacion {
+	width: 72%;
+	margin: 50px auto;
+}
+}
+/* CIERRE TABLET 768PX - 1023PX */
+
+/* COMIENZO TABLET NOTEBOOK */
+@media screen and (min-width: 1024px) and (max-width: 1366px){
+.menu {
+	width: 100%;
+}
+
+.menu .navegacion {
+	width: 100%;
+}
+
+#banner {
+	width: 100%;
+	max-width: 100%;
+}
+
+#banner .formulario {
+	width: 100%;
+}
+
+#banner .formulario .contacto .contactenos {
+	width: 100%;
+}
+
+#banner .formulario .contacto .contactenos h2 {
+	margin: 0 3%;
+	color: #ffffff;
+	font-size: 1.2em;
+}
+
+#banner .formulario .contacto {
+	width: 40%;
+	margin: 30px auto;
+	align-items: center;
+	float: left;
+}
+
+#banner .formulario .contacto input {
+	width: 91%;
+}
+
+#banner .formulario .contacto #boton {
+	margin: 4% 5%;
+	text-align: left;
+	align-self: flex-start;
+}
+
+#nosotros {
+	width: 100%;
+}
+
+#nosotros .titulos h2 {
+	font-size:  1.2em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#nosotros .equipo {
+	width: 80%;
+}
+
+#nosotros .equipo p {
+	text-align: left;
+}
+#mutuo-acuerdo {
+	width: 100%;
+}
+
+#mutuo-acuerdo .titulos {
+	width: 100%;
+}
+
+#mutuo-acuerdo .titulos h2 {
+	font-size:  1.2em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#mutuo-acuerdo .container {
+	width: 80%;
+}
+
+
+#mutuo-acuerdo .container .ofrecemos {
+	display: flex;
+	flex-direction: row;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon {
+	width: 50px;
+	min-width: 50px;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon img {
+	width: 100%;
+}
+
+#requisitos {
+	width: 100%;
+}
+
+#requisitos .titulos h2 {
+	font-size:  1.2em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#requisitos .requisitos-divorcio {
+	width: 80%;
+}
+
+#requisitos .requisitos-divorcio p {
+	text-align: left;
+}
+
+#requisitos .requisitos-divorcio .imagenes  {
+	width: 100%;
+	display:  flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	text-align: center;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos {
+	width: 22.5%;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos img {
+	width: 100%;
+	max-width: 1920px;
+}
+
+#nuestra-oficina {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos h2 {
+	font-size:  1.2em;
+	padding: 5px;
+	margin-left: 9%;
+}
+
+#nuestra-oficina .direccion {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+}
+
+#nuestra-oficina .direccion .icons {
+	width: 23.3%;
+}
+
+#nuestra-oficina .direccion .icons img {
+	width: 100%;
+	max-width: 50px;
+}
+
+#nuestra-oficina .ubicacion {
+	width: 80%;
+	margin: 50px auto;
+}
+}
+
+@media only screen and (min-width: 1367px) {
+
+}
+

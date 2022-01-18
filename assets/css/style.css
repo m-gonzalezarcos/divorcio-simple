@@ -1,0 +1,450 @@
+
+/* GENERALES */
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+body {
+	font-size: 16px;
+}
+
+/* COMIENZO MENÚ */
+.menu {
+	background-color: #13386E;
+	width: 100%;
+	max-width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 10px;
+	top: 0;
+	z-index: 1;
+}
+
+.menu h1 {
+	font-size: 2em;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.menu .navegacion {
+}
+
+.menu li {
+	list-style-type: none;
+	display: inline;
+	padding: 7px 20px;
+	transition: 0.7s;
+}
+
+.menu li a {
+	text-decoration: none;
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+}
+
+.menu li a:hover {
+	color: #000000;
+}
+
+.menu li:hover {
+	background-color: #F2C7AE;
+}
+/* CIERRE MENU */
+
+/* COMIENZO BANNER CON FORMULARIO DE CONTACTO */
+#banner {
+	width: 100%;
+	max-width: 100%;
+	background-image: url(../img/aside.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 650px;
+	padding: 30px 45px;		
+}
+
+#banner .formulario {
+	width: 1140px;
+	margin: 70px auto;
+	overflow: hidden;
+}
+
+#banner .formulario h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 4em;
+	text-align: center;
+	color: #ffffff;
+	margin-top: 100px;
+	text-shadow: 2px 2px 5px #000000;
+}
+
+#banner .formulario h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2em;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 1px 1px #000000;
+}
+
+#banner .formulario h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.7em;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 1px 1px #000000;
+	margin-top: 50px;
+}
+
+hr {
+	width: 55%;
+	margin: 30px auto;
+}
+
+#banner .formulario .contacto {
+	width: 40%;
+	display: flex;
+	flex-direction: column;
+	background-color: #ededed;
+	border-radius: 5px;
+	opacity: 0.8;
+	padding-bottom: 10px;
+	float: left;
+}
+
+#banner .formulario .contacto .contactenos {
+	background-color: #F2C7AE;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	width: 100%;
+	padding: 5px;
+}
+
+#banner .formulario .contacto .contactenos h2 {
+	margin: 0 20px;
+	color: #ffffff;
+	font-size: 1.3em;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	text-align: left;
+	text-shadow: none;
+}
+
+#banner .formulario .contacto input {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	padding: 10px;
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+	outline: none;
+	background-color: #ffffff;
+	border: 1px solid #c84b31;
+}
+
+#banner .formulario .contacto input:hover {
+	outline:  1px solid #c84b31;
+}
+
+#banner .formulario .contacto textarea {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	padding: 10px;
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+	outline: none;
+	background-color: #ffffff;
+	border: 1px solid #c84b31;
+	width: 91%;
+	max-width: 91%;
+	min-width: 91%;
+	min-height: 150px;
+	max-height: 170px;
+}
+
+#banner .formulario .contacto textarea:hover {
+	outline: 1px solid #c84b31;
+}
+
+#banner .formulario .contacto #boton {
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 10px;
+	width: 20%;
+	max-width: 20%;
+	border: none;
+	outline: none;
+	border-radius: 0;
+	color: #3d3d3d;
+	background-color: #F2C7AE;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	text-align: left;
+}
+
+#banner .formulario .contacto #boton:hover {
+	background-color: rgba(217,187,169,0.7);
+	cursor: pointer;
+}
+/* CIERRE BANNER CON FORMULARIO DE CONTACTO */
+
+/* COMIENZO SECCIÓN NOSOTROS */
+#nosotros {
+	width: 100%;
+}
+
+#nosotros .titulos {
+	background-color: #F2C7AE;
+}
+
+#nosotros .titulos h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size:  1.5em;
+	padding: 5px;
+	margin-left: 215px;
+	color: #ffffff;
+}
+
+#nosotros .equipo {
+	width: 1140px;
+	margin: 70px auto;
+}
+
+#nosotros .equipo p {
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+}
+
+/* CIERRE SECCIÓN NOSOTROS */
+
+/* COMIENZO SECCIÓN MUTUO ACUERDO */
+#mutuo-acuerdo {
+	width: 100%;
+}
+
+#mutuo-acuerdo .titulos {
+	width: 100%;
+	background-color: #F2C7AE;
+}
+
+#mutuo-acuerdo .titulos h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size:  1.5em;
+	padding: 5px;
+	margin-left: 215px;
+	color: #ffffff;
+}
+
+#mutuo-acuerdo .container {
+	width: 1140px;
+	margin: 70px auto;
+}
+
+
+#mutuo-acuerdo .container .ofrecemos {
+	display: flex;
+	flex-direction: row;
+	margin-top: 20px;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon {
+	width: 50px;
+	min-width: 50px;
+}
+
+#mutuo-acuerdo .container .ofrecemos .icon img {
+	width: 100%;
+}
+
+#mutuo-acuerdo .container .ofrecemos .te-ayudamos {
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	margin-top: 5px;
+	margin-left: 15px;
+	/*position: absolute;
+	top: 25px;
+	left: 70px;*/
+}
+
+#mutuo-acuerdo .container .ofrecemos .derechos-familia {
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	margin-top: 5px;
+	margin-left: 15px;
+	/*position: absolute;
+	top: 120px;
+	left: 70px;*/
+}
+
+#mutuo-acuerdo .container .ofrecemos .causas-familia {
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	margin-top: 5px;
+	margin-left: 15px;
+	/*position: absolute;
+	top: 215px;
+	left: 70px;*/
+}
+
+/* CIERRE SECCIÓN MUTUO ACUERDO */
+
+/* COMIENZO SECCION REQUISITOS */
+#requisitos {
+	width: 100%;
+}
+
+#requisitos .titulos {
+	background-color: #F2C7AE;
+}
+
+#requisitos .titulos h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size:  1.5em;
+	padding: 5px;
+	margin-left: 215px;
+	color: #ffffff;
+}
+
+#requisitos .requisitos-divorcio {
+	width: 1140px;
+	margin: 70px auto;
+	text-align: justify;
+	overflow: hidden;
+}
+
+#requisitos .requisitos-divorcio p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#requisitos .requisitos-divorcio .imagenes {
+	width: 1140px;
+	margin-top: 50px;
+	display: flex;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos {
+	width: 25%;
+	margin: 10px;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos img {
+	width: 100%;
+	max-width: 1920px;
+	border-radius: 5px;
+	transition: 0.5s all;
+}
+
+#requisitos .requisitos-divorcio .img-requisitos img:hover {
+	transform: scale(1.07);
+	box-shadow: 0 0 8px #000000;
+}
+
+#requisitos .requisitos-divorcio .imagenes .img-requisitos figcaption {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 0.8em;
+	margin-top: 5px;
+}
+
+/* CIERRE SECCIÓN REQUISITOS */
+
+/* COMIENZO SECCIÓN NUESTRA OFICINA */
+#nuestra-oficina {
+	width: 100%;
+}
+
+#nuestra-oficina .titulos {
+	background-color: #F2C7AE;
+	width: 100%;
+}
+
+#nuestra-oficina .titulos h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size:  1.5em;
+	padding: 5px;
+	margin-left: 215px;
+	color: #ffffff;
+}
+
+#nuestra-oficina .direccion {
+	width: 1140px;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 70px auto;
+}
+
+#nuestra-oficina .direccion .icons {
+	width: 25%;
+	text-align: center;
+}
+
+#nuestra-oficina .direccion .icons img {
+	width: 100%;
+	max-width: 50px;
+}
+
+#nuestra-oficina .direccion .icons figcaption {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 0.8em;
+	margin-top: 5px;
+	font-weight: 500;
+}
+
+#nuestra-oficina .ubicacion {
+	/*width: 72%;*/
+	width: 100%;
+	max-width: 1140px;
+	height: 500px;
+	min-height: 500px;
+	max-height: 500px;
+	margin: 50px auto;
+}
+/* CIERRE SECCIÓN NUESTRA OFICINA */
+
+/* COMIENZO FOOTER */
+.pie {
+	width: 100%;
+	background-color: #F2C7AE;
+	text-align: center;
+	padding: 10px;
+}
+
+.pie small {
+	font-family: 'Montserrat', sans-serif;
+	color: #000000;
+}
+/* CIERRE FOOTER */
+
+/* BOTÓN ARRIBA */
+.boton-arriba {
+	position: fixed;
+	right: 20px;
+	bottom: 40px;
+}
+
+.boton-arriba .fa-chevron-circle-up {
+	font-size: 45px;
+	color: #13386e;
+	cursor: pointer;
+}
+/* CIERRE BOTÓN ARRIBA */
+
+
+
+
+
+
+
+
+
+
+

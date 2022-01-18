@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="300" viewBox="0 0 70 300">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                      
+<?xpacket end="w"?></metadata>
+<defs>
+    <image id="image" width="70" height="70" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAQAAADbJyoPAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQflCQwQCTbPxXD4AAAE8klEQVRo3u2aa2wUVRTHf4UKrUah3RaTUlqCgUZQoEpMwIJotMFoxAIh1vtJEwQxRfRDbWgbH1QJKD6IEgwY8XGhxkQxqBhiQqomGjUEIbapqFh5hEJpoSrt1gJ+6NnZ2Zm529kZYzemJ9m955499z//Ofd972YQSlQWD7KU67lIC41s031h0DJCUbmGXVxnMzRztz4yJGTUGPYzyWH8lRv0uaCII0IEpt5FBSZROwSRUSNpJwJAK/XAWkoA6CKiLwXDzAz8GsVCBZbqg6Ba+QGAHCYSsN0Er6bLLe0X2zfAlUEhg5P5nYuiVdu+AX4LChmmN+1jvqiHgcmiN+n5geBCRQYaLG2yRQWeCQ44MnjRQ0emX+JWh7FWvz0kZOBQ0/TDzCRXsm0s11vC4IWaDgBULmdEjejOcFhh2syAXPTQhozMvyhpRSZT1ZAVCiFeukb1hkLqzVBnGTPUERE5l1bVlFZkMtlhm38TZQFXW/op9hi8RlEp2k76fCC185nB67xx0FMRjtkaZx8T9ClPv7F0iZqjz/pAijJBn/Z+prmaliX0slEsJ6g8lIA0mmUmRwMZlclKh2mFuiwIE5XJIw7TSmVYX5ois5AJotVLWsDiQHFZxHjR1kg6nkWpkVkl6QHdwEGHLTWpknS/XmchVXm7epJRM5gn6ib5AMxWN6bKRJVSZkN6TfQyVeo/MrEYdLAT2EGnw+5fYiVO0wi8a/U8TyQPMirC/aJu1b2ge9gq+fvUuJTikm+NQa/rKOjzbJN8pcr3F5lYp77AZrFs5gKQegdfxmgA+tliIQ2sejw7uDXoqULZ0GXQJD3pc1uBN7gNgBPMFbh+fQy8Bj0b0pfSk/baXuJN2VMcZ14ikn1H+RXFDqK3e+wMC6zNWhsTDfFwI5V7II13I6XVRDlMxiTxNvOnpKt4J2mJJdLR/zZ69Ei6gveSIlVKb426ycQGtlzvhUBMVJ4oHUaX+D4qOVLEiRSvphZJy5OHkjskbTZ6tDg8TVLu8LeRaZJ0tpqW5G2mcIuoXxid9kk6T5UkQbqWm51IcTK7OQ9ABi8o86b3edmd97LL6POxtJoRbEwSl43y7B4+cpHRf1gz0ALqDG+zhntEfct8pqm7rRnoLmU4blR13Cnq9jiSLQYqj5/IkcwmanRPQvEsnuVxyXQzRbeL3WMNrMbRylixvkitTtjcqWzW8ahkzlESQ3KcQqglvG9ljrOBD2T+KaCCJ6y1H1TqRquM54I8Aeko6/lQnwBQhVRQTaEXkutIRFWzPsHQwRlySZzun9S20ynT7kDVsTah1Gk6iZBnRnKNwHoDVfTbDHmUJFC5wGPa10GZbmC1LDwGJJ+SBCoeSK7pQL/KHPYbnnCQMv2yHyoA+hXmWKteN9JcN5LH3KS/YxYL2Y29AUf5hApK9Td+qQDobynlXj6ND/hAlD0splR/7fZPcoymRjOVInLo4ijN2nDcMfiOElQW0yjmKrpp40dtPDgJf6bng4xfSaslxDCZYTLDZP6XZFK6o1RTPVbI2Zb2sOpx/bpXN+NbUrswvYmXkvz6nIftAVIgk1bVlFZkgt1r/8X3g3jM4or/iszPg93QqgPMSB02raoprcj4qiaVL8dhRWLIVjMHKRIbfYrE86Q+OfhzfK301Oqk44sfeVo/NbhTWlVTWpHx17WjBP7rkoivq9R/AIgfRWEesNKHAAAAAElFTkSuQmCC"/>
+  </defs>
+  <use id="icon-balance" y="20" xlink:href="#image"/>
+  <use id="icon-balance-2" data-name="icon-balance" y="210" xlink:href="#image"/>
+  <use id="icon-balance-3" data-name="icon-balance" y="115" xlink:href="#image"/>
+</svg>
